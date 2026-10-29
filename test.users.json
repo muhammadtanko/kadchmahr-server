@@ -1,0 +1,1632 @@
+[{
+  "_id": {
+    "$oid": "678be4299fd61c2b330d837b"
+  },
+  "email": "tk@g.com",
+  "password": "$2b$10$7Ktc0xotLCXZnHtBZBJMwOKhhynUt5m52OurwRapLf8tBCFeiNMC.",
+  "status": "Active",
+  "department": "ICT",
+  "designation": "Department_Head",
+  "leaveRequests": [
+    {
+      "$oid": "6849751e674c466029c74cf0"
+    },
+    {
+      "$oid": "68497fa3674c466029c74d6f"
+    },
+    {
+      "$oid": "684983f7674c466029c74dbd"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-18T17:26:02.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T13:26:15.044Z"
+  },
+  "__v": 0,
+  "role": "User",
+  "firstName": "Muhammad",
+  "lastName": "Tanko",
+  "middleName": "Yahaya"
+},
+{
+  "_id": {
+    "$oid": "67c072746cec0d68cb55eb22"
+  },
+  "firstName": "Zuliyat",
+  "lastName": "Abdullah",
+  "email": "zuliyatabdullah@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$Xs/8rpGv3gwC6E1F3Jele.lOX3oaK514/Ry6/LfUXGGLNKyWt5Y0C",
+  "status": "Active",
+  "phoneNumber": "08100293602",
+  "department": "Planning",
+  "ApptType": "Nysc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0425566843",
+  "bankName": "Gtbank",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": " ",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "Offa",
+  "state": "Kwara",
+  "bvn": "22461245022",
+  "nin": "52216994721",
+  "highestQualification": "",
+  "employmentDate": {
+    "$date": "2023-07-31T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-02-27T14:11:00.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T14:11:00.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c57b53a23ef99f1e0adcc9"
+  },
+  "firstName": "Yusuf",
+  "lastName": "Adam",
+  "email": "yadam7893@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$ERZcu9KlglHid1bLRLqOtOOBaDZh.vctjIEM3otaYF6zn5emxPCwW",
+  "status": "Active",
+  "dob": {
+    "$date": "1987-02-25T23:00:00.000Z"
+  },
+  "phoneNumber": "07036160844",
+  "emergencyContact": "07036160844",
+  "department": "Admin",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0012674209",
+  "bankName": "stanbicIBTC bank ",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": " ",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "Kaduna South ",
+  "state": "Kaduna",
+  "bvn": "22151291171",
+  "nin": "66542646022",
+  "highestQualification": "WAEC",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T09:50:12.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T09:50:12.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e6"
+  },
+  "firstName": "Sadiya ",
+  "lastName": "Iya",
+  "middleName": "Ahmad ",
+  "email": "ahmedsadeeyah@gmail.com",
+  "gender": "Female",
+  "password": "",
+  "status": "Active",
+  "dob": {
+    "$date": "1998-01-01T00:00:00.000Z"
+  },
+  "phoneNumber": "07061523885",
+  "emergencyContact": "08037488156",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0172937327",
+  "bankName": "Gt Bank",
+  "LGA": "Kaduna North",
+  "state": "Kaduna",
+  "bvn": "22361340548",
+  "nin": "71047344526",
+  "highestQualification": "Bachelors",
+  "employmentDate": {
+    "$date": "2021-11-17T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T17:03:55.766Z"
+  },
+  "department": "Operations"
+},
+{
+  "_id": {
+    "$oid": "67bc2e4da7dd62e3db7614f8"
+  },
+  "firstName": "MARYAM",
+  "lastName": "ALIYU",
+  "middleName": "AHMAD",
+  "email": "maryamdoctor15@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$uf2/fwoDdduLw38zOD/mRuz64yRVoHceTDI8Y70erTU4xBYH.iZAe",
+  "status": "Active",
+  "phoneNumber": "09025665162",
+  "department": "Operations",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0000776035",
+  "bankName": "UNITY BANK PLC",
+  "psn": "11458818",
+  "openFileNum": "440",
+  "secFileNum": "CM/S/1253",
+  "cadre": "MEDICAL DOCTOR ",
+  "rank": "PRINCIPAL MEDICAL OFFICER 2",
+  "gradeLevel": "GL 15",
+  "LGA": "ZARIA",
+  "state": "Kaduna",
+  "bvn": "22276508691",
+  "nin": "13982475228",
+  "highestQualification": "MBBS",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-02-24T08:31:10.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:36:50.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e7"
+  },
+  "firstName": "Ibrahim ",
+  "lastName": "Mohammed ",
+  "middleName": "Alimi",
+  "email": "ialimimohammed90@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$P9ZTKfhHxc9Zha/lXFbAT./F2Hztcrz3ItFMPNmbleFqvcn/uvq3C",
+  "status": "Active",
+  "dob": {
+    "$date": {
+      "$numberLong": "-174963600000"
+    }
+  },
+  "phoneNumber": "08066016524",
+  "emergencyContact": "07037252578",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2048349273",
+  "bankName": "UBA ",
+  "LGA": "Kaduna North ",
+  "state": "Kaduna ",
+  "bvn": "22159838125",
+  "nin": "21067015031",
+  "highestQualification": "MBA",
+  "employmentDate": {
+    "$date": "2024-08-20T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bb76d8020d7fb29c13225e"
+  },
+  "firstName": "Abubakar",
+  "lastName": "Saidu",
+  "middleName": "Shehu",
+  "email": "abushefat250@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$Xn75XSXojVjkvZMicvK1SOxqueIlzfSNCVAQl1heG7e50BQ05ye3m",
+  "status": "Active",
+  "dob": {
+    "$date": "1976-10-01T23:00:00.000Z"
+  },
+  "phoneNumber": "08066906501",
+  "emergencyContact": "08023760603",
+  "department": "Business_Development",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2015027011",
+  "bankName": "FCMB",
+  "LGA": "Zaria",
+  "state": "Kaduna",
+  "bvn": "22232249561",
+  "nin": "94898793477",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2023-12-31T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-02-23T19:28:24.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T11:48:50.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bc30978904a66d4d1309e2"
+  },
+  "firstName": "BALA",
+  "lastName": "SAIDU",
+  "email": "balasaidu0@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$7uzaDGwllDZAgqXguKOmP.LUeswbk0.6/BvOceZ07kkxeVsXuE76C",
+  "status": "Active",
+  "phoneNumber": "08021144431",
+  "department": "Planning",
+  "ApptType": "Permanent",
+  "designation": "Department_Head",
+  "role": "User",
+  "bankAccountNumber": "0002886372",
+  "bankName": "JAIZ",
+  "psn": "11460415940",
+  "openFileNum": "901",
+  "secFileNum": "CP/S/745",
+  "cadre": "PHARMACIST",
+  "rank": "PRINCIPAL PHARMACIST ",
+  "gradeLevel": "GL 12",
+  "step": "7",
+  "LGA": "KAURU",
+  "state": "Katsina",
+  "bvn": "22226986531",
+  "nin": "31840724210",
+  "highestQualification": "B.PHARM",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-02-24T08:40:55.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T08:40:55.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c57d52a23ef99f1e0adcd0"
+  },
+  "firstName": "Abdul",
+  "lastName": "Magaji",
+  "middleName": "Kauru",
+  "email": "abdulmagaji707@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$BQ6Di9PJpXqaUd090AW85e2r3.2x2ssVqfrqNNFLckBiWI8jdiBRe",
+  "status": "Active",
+  "dob": {
+    "$date": {
+      "$numberLong": "-58323600000"
+    }
+  },
+  "phoneNumber": "08136517045",
+  "emergencyContact": "08033112062",
+  "department": "Accounts",
+  "ApptType": "Permanent",
+  "designation": "Department_Head",
+  "role": "User",
+  "bankAccountNumber": "1010237488",
+  "bankName": "UBA BANK",
+  "psn": "11443529",
+  "openFileNum": "",
+  "secFileNum": "414",
+  "cadre": "",
+  "rank": "Chief Accounting Assistant",
+  "gradeLevel": "GL14",
+  "step": "9",
+  "LGA": "Kauru",
+  "state": "Kaduna",
+  "bvn": "22186360321",
+  "nin": "74673479670",
+  "highestQualification": "HND",
+  "employmentDate": {
+    "$date": "1991-02-25T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T09:58:43.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T09:58:43.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d8158e11ea81a79efbaf50"
+  },
+  "firstName": "HANNATU",
+  "lastName": "LADAN",
+  "middleName": "ABUBAKAR",
+  "email": "hannatuladan@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$KpGNlL7ApOf.YkNd2jDYZ.u3z1Q/9tyW6p6C8gluB9jFrkkAxyWZO",
+  "status": "Active",
+  "dob": {
+    "$date": "1978-03-15T00:00:00.000Z"
+  },
+  "phoneNumber": "08023638676",
+  "emergencyContact": "08023293769",
+  "department": "Business_Development",
+  "nNumber": "12898",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "9301043830",
+  "bankName": "Stanbic IBTC",
+  "psn": "11460404922",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "Trade",
+  "rank": "Chief trade officer",
+  "gradeLevel": "14",
+  "step": "3",
+  "LGA": "KUDAN",
+  "state": "Kaduna",
+  "bvn": "000000",
+  "nin": "64739938077",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2001-02-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": {
+    "$date": "2001-02-01T00:00:00.000Z"
+  },
+  "dateofConfirmation": {
+    "$date": "2001-07-01T00:00:00.000Z"
+  },
+  "dateofpresentappointment": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "dateOfRetirement": {
+    "$date": "2036-01-31T00:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-17T12:29:02.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T12:29:02.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e3"
+  },
+  "firstName": "Mubarak ",
+  "lastName": "Hamisu",
+  "email": "trymubeen@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$1sQ5kLxAXIIOrVFsJgMLtubzY09KfJ1Ukbf1nzYPpKtbZqEMmiAbS",
+  "status": "Active",
+  "dob": {
+    "$date": "1998-11-15T23:00:00.000Z"
+  },
+  "phoneNumber": "08146006170",
+  "emergencyContact": "08063447211",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "219430347",
+  "bankName": "GT Bank",
+  "LGA": "Birnin Gwari",
+  "state": "Kaduna",
+  "bvn": "22226631323",
+  "nin": "743966683861",
+  "highestQualification": "Masters (Inview) ",
+  "employmentDate": {
+    "$date": "2023-07-31T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "ICT"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9df"
+  },
+  "firstName": "Zalihat ",
+  "lastName": "Garba",
+  "email": "zalihagarba22@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$WXSfzkJxotevdE.bMHUd..3vekt22WFURFzzTD8G99cfWtJPgcLQy",
+  "status": "Active",
+  "dob": {
+    "$date": "1982-06-03T23:00:00.000Z"
+  },
+  "phoneNumber": "8069222224",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "22863112",
+  "bankName": "Satanbic bank ",
+  "LGA": "Igabi",
+  "state": "Kaduna",
+  "bvn": "22349013789",
+  "nin": "20364020894",
+  "highestQualification": "High Diploma ",
+  "employmentDate": {
+    "$date": "2020-02-09T23:00:00.000Z"
+  },
+  "dateofFirstAppointment": {
+    "$date": "2020-02-09T23:00:00.000Z"
+  },
+  "dateofConfirmation": {
+    "$date": "2020-02-09T23:00:00.000Z"
+  },
+  "dateofpresentappointment": {
+    "$date": "2020-02-09T23:00:00.000Z"
+  },
+  "leaveRequests": [
+    {
+      "$oid": "68496914674c466029c74c74"
+    },
+    {
+      "$oid": "68496d1f674c466029c74cb3"
+    },
+    {
+      "$oid": "68496d1f674c466029c74cb5"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T11:55:57.497Z"
+  },
+  "department": "ICT"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9ea"
+  },
+  "firstName": "Esther",
+  "lastName": "Bage",
+  "middleName": "",
+  "email": "turaishehu@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$PohIZaaNxF7x43iv1o.Ed.1cEkfvYFRbMkZv81JTNIPIIabz2nJoC",
+  "status": "Active",
+  "dob": {
+    "$date": "1987-09-13T23:00:00.000Z"
+  },
+  "phoneNumber": "08181785864",
+  "emergencyContact": "08035960661",
+  "department": "Operations",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2002528959",
+  "bankName": "Zenith",
+  "LGA": "Jema'a",
+  "state": "Kaduna",
+  "bvn": "22182526600",
+  "nin": "10452324524",
+  "highestQualification": "Higher National Diploma",
+  "employmentDate": {
+    "$date": "2020-11-09T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67bc29ae505af581b23de7ec"
+  },
+  "firstName": "Suleiman",
+  "lastName": "Mustapha",
+  "middleName": "",
+  "email": "smustapha79@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$NWO/lTLSsSk01OUZ01j66us4T/v8F1/SZ4nkadjQlI4xs8fzpAG8S",
+  "status": "Active",
+  "dob": {
+    "$date": "1979-08-30T23:00:00.000Z"
+  },
+  "phoneNumber": "08034506094",
+  "emergencyContact": "08033253395",
+  "department": "Admin",
+  "ApptType": "Permanent",
+  "designation": "Department_Head",
+  "role": "Admin",
+  "bankAccountNumber": "0002138752",
+  "bankName": "Unity Bank",
+  "cadre": "Hospital Secretary",
+  "LGA": "Zaria",
+  "state": "Kaduna",
+  "bvn": "11460395360",
+  "nin": "63504982174",
+  "highestQualification": "Masters Degree",
+  "employmentDate": {
+    "$date": "2006-01-24T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-02-24T08:11:26.674Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T08:16:14.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c57754b23afa3bebca88bb"
+  },
+  "firstName": "Abdulaziz",
+  "lastName": "Hassan",
+  "email": "abdulazizhassan14@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$zYPZoyX3PvqGFtSUzNt1zergcHI6QJJ1tJSFgERUQCLODunMIdOGS",
+  "status": "Active",
+  "dob": {
+    "$date": "1996-11-23T23:00:00.000Z"
+  },
+  "phoneNumber": "07065310014",
+  "emergencyContact": "08060770338",
+  "department": "ICT",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0160571942",
+  "bankName": "GT Bank",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": " ",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "Kaduna south",
+  "state": "Kaduna",
+  "bvn": "22337984873",
+  "nin": "51819437354",
+  "highestQualification": "BSC",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T09:33:08.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T09:33:08.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c58a86a23ef99f1e0adce4"
+  },
+  "firstName": "KOMBO",
+  "lastName": "HABILA",
+  "middleName": "GAYUS",
+  "email": "gkombong@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$AxdHyNYDUOpq6tSXpMtcsuZC5GzG.uYU1Sq9Mj8k66.mXTCh5auFi",
+  "status": "Active",
+  "dob": null,
+  "phoneNumber": "08051015788",
+  "emergencyContact": "08062253983",
+  "department": "Operations",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2382034186",
+  "bankName": "Ecobank",
+  "psn": "MoH/037",
+  "openFileNum": "773",
+  "secFileNum": "1535",
+  "cadre": "Medical Laboratory Scientist",
+  "rank": "Asst. Director Laboratory Services",
+  "gradeLevel": "GL15",
+  "step": "3",
+  "LGA": "LERE",
+  "state": "Kaduna",
+  "bvn": "22180038802",
+  "nin": "39439984654",
+  "highestQualification": "MSc Chemical Pathology",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T10:55:03.070Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T10:55:03.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849782f674c466029c74d15"
+  },
+  "firstName": "Godiya",
+  "lastName": "Umaru",
+  "middleName": "Daniel",
+  "email": "mgodiya50@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$Ntd/NxGvP0h5WR4ortRgvOt5pWdzeRnmpHETvj6WEEk3AAQMa2LIW",
+  "status": "Active",
+  "dob": {
+    "$date": "1981-09-04T00:00:00.000Z"
+  },
+  "phoneNumber": "08063545226",
+  "emergencyContact": "08036730919",
+  "department": "Operations",
+  "nNumber": "",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0112914461",
+  "bankName": "GTB",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "Lere",
+  "state": "Kaduna",
+  "bvn": "22164557208",
+  "nin": "76800301888",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2006-12-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": null,
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-06-11T12:35:59.716Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T12:35:59.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6859658e674c466029c74df5"
+  },
+  "firstName": "ABUBAKAR",
+  "lastName": "HASSAN",
+  "middleName": "",
+  "email": "abu.aslam001@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$Im0MEMM5KgQL2Qa4Pw.xmuIQhNaMoA4BkciGPwgS0dA1hSEg54Xiu",
+  "status": "Active",
+  "dob": {
+    "$date": "1973-12-14T00:00:00.000Z"
+  },
+  "phoneNumber": "08032004457",
+  "emergencyContact": "07031580570",
+  "department": "Operations",
+  "nNumber": "",
+  "ApptType": "Permanent",
+  "designation": "DG",
+  "role": "DG",
+  "bankAccountNumber": "0039014284",
+  "bankName": "Union",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "JAMAA",
+  "state": "Kaduna",
+  "bvn": "22142105784",
+  "nin": "78187635017",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2019-10-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": null,
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-06-23T14:32:46.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-23T14:32:46.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9dc"
+  },
+  "firstName": "Khadijah ",
+  "lastName": "Mohammed",
+  "middleName": "Sale ",
+  "email": "Khadijahmohammed633@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$GWTDm6lYVBhOGD/ryjh6NeaVOZPoZImqdweg5usguf5petdJ7iQv6",
+  "status": "Active",
+  "dob": {
+    "$date": "2001-03-10T23:00:00.000Z"
+  },
+  "phoneNumber": "07081744020",
+  "emergencyContact": "08033139986",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0810491292",
+  "bankName": "Access bank",
+  "LGA": "Mangu ",
+  "state": "Plateau",
+  "bvn": "22523636203",
+  "nin": "52379246691",
+  "highestQualification": "BSC ",
+  "employmentDate": {
+    "$date": "2023-10-08T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "ICT"
+},
+{
+  "_id": {
+    "$oid": "67c57ecea23ef99f1e0adcd5"
+  },
+  "firstName": "Juliana",
+  "lastName": "Bungwon",
+  "middleName": "Dauda",
+  "email": "julianadauda@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$Wsj1OehLlehi6WXhbng1VOFWGrXlwUUCutXsow5icQj8FkkC44vIW",
+  "status": "Active",
+  "dob": {
+    "$date": {
+      "$numberLong": "-23158800000"
+    }
+  },
+  "phoneNumber": "08035907156",
+  "emergencyContact": "08037038002",
+  "department": "Operations",
+  "ApptType": "Permanent",
+  "designation": "Department_Head",
+  "role": "User",
+  "bankAccountNumber": "3007240554",
+  "bankName": "First Bank of Nigeria",
+  "psn": "KDSG0024502",
+  "openFileNum": "",
+  "secFileNum": "1351",
+  "cadre": "Medical services",
+  "rank": "Director",
+  "gradeLevel": "GL16",
+  "step": "9",
+  "LGA": "Kaduna South",
+  "state": "Kaduna",
+  "bvn": "22159585760",
+  "nin": "57723838651",
+  "highestQualification": "MBBS",
+  "employmentDate": {
+    "$date": "1993-03-31T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T10:05:03.151Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T10:05:03.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67890dcf17f3f9865264868f"
+  },
+  "firstName": "UMAR",
+  "lastName": "ALIYU",
+  "email": "aliyuu379@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$GAOo2/uy2YyqYLXCWIuH6..zukTSVKFH/7Vb6ou5S.UVbKO8xdrhG",
+  "status": "Pending",
+  "dob": {
+    "$date": "1975-10-24T00:00:00.000Z"
+  },
+  "phoneNumber": "08060167084",
+  "emergencyContact": "08037893685",
+  "department": "Finance/Audit",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "Auditor",
+  "bankAccountNumber": "0787285015",
+  "bankName": "FCMB",
+  "psn": "11460405942",
+  "openFileNum": "1032",
+  "secFileNum": "1256",
+  "cadre": "Accounting",
+  "rank": "PEO Account",
+  "gradeLevel": "12",
+  "step": "4",
+  "LGA": "Kaduna South",
+  "state": "Kaduna",
+  "bvn": "0000000000",
+  "nin": "00000000000",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2001-05-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": {
+    "$date": "2001-05-01T00:00:00.000Z"
+  },
+  "dateofConfirmation": null,
+  "dateofpresentappointment": {
+    "$date": "2001-11-01T00:00:00.000Z"
+  },
+  "dateOfRetirement": {
+    "$date": "2036-05-01T00:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-01-16T13:46:55.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-16T13:46:55.705Z"
+  },
+  "__v": 0,
+  "middleName": "GARBA"
+},
+{
+  "_id": {
+    "$oid": "678913dcb7c5f990017753f2"
+  },
+  "firstName": "NINA",
+  "lastName": "AWAN",
+  "email": "n12533719@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$JXv6brzoz78m4.AFHH3oDuOV1nCcrpUKcDf6T9REKjwcZ5/4zl882",
+  "status": "Pending",
+  "dob": {
+    "$date": "1997-09-17T00:00:00.000Z"
+  },
+  "phoneNumber": "07069729238",
+  "emergencyContact": "07067821083",
+  "department": "ICT",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0018236425",
+  "bankName": "Stanbic IBTC",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "KAURA",
+  "state": "Kaduna",
+  "bvn": "22389817448",
+  "nin": "35304618224",
+  "highestQualification": "Diploma",
+  "employmentDate": {
+    "$date": "2020-07-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": null,
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [
+    {
+      "$oid": "68496cad674c466029c74caf"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-16T14:12:44.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T11:46:53.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67891531b7c5f990017753f7"
+  },
+  "firstName": "AMINA",
+  "lastName": "USMAN",
+  "email": "uamina99@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$r53VpDlYWFYl.6eVXd7tTuwcUVv3Y.DbSU2MclBbcnTQ.m73WOo8G",
+  "status": "Pending",
+  "dob": {
+    "$date": "1999-11-04T00:00:00.000Z"
+  },
+  "phoneNumber": "08037575681",
+  "emergencyContact": "08037871628",
+  "department": "ICT",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0805155851",
+  "bankName": "Access",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "MAIDUGURI",
+  "state": "Borno",
+  "bvn": "22282034852",
+  "nin": "30387387476",
+  "highestQualification": "Bachelors",
+  "employmentDate": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-01-16T14:18:25.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-16T14:18:25.797Z"
+  },
+  "__v": 0,
+  "middleName": "MUSA"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9db"
+  },
+  "firstName": "Lukman ",
+  "lastName": "Abdullahi ",
+  "middleName": "Ango",
+  "email": "angoabdullahilookman@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$WT1xKLgifoo/7xhnt1xdgeC4a1SsW/Y/kF5nEpsSS6lR2vjcRucw.",
+  "status": "Active",
+  "dob": {
+    "$date": "1994-10-01T00:00:00.000Z"
+  },
+  "phoneNumber": "08030658715",
+  "emergencyContact": "08033975060",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "3085066525",
+  "bankName": "First bank ",
+  "LGA": "Ibi",
+  "state": "Taraba",
+  "bvn": "22313845367",
+  "nin": "99868281535",
+  "highestQualification": "Bachelors",
+  "employmentDate": {
+    "$date": "2023-07-19T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T09:59:14.498Z"
+  },
+  "department": "Business_Development"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9dd"
+  },
+  "firstName": "Mustapha ",
+  "lastName": "Abdulaziz ",
+  "email": "mustaphamusty458@gmail.com",
+  "gender": "Male",
+  "password": "",
+  "status": "Active",
+  "dob": {
+    "$date": "1999-04-10T00:00:00.000Z"
+  },
+  "phoneNumber": "08037017636",
+  "emergencyContact": "07080838009",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "7151800010",
+  "bankName": "FCMB ",
+  "LGA": "Kubau ",
+  "state": "Kaduna ",
+  "bvn": "22506364471",
+  "nin": "38173035066",
+  "highestQualification": "Higher National Diploma ",
+  "employmentDate": {
+    "$date": "2025-02-02T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T09:16:12.754Z"
+  },
+  "department": "ICT"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9de"
+  },
+  "firstName": "Amina",
+  "lastName": "Musa",
+  "middleName": "Usman",
+  "email": "Uamina99@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$.43fxOkFqtcDT0OxiIWGGuQloCc0g83uDL2lfvyEBzKcsymrkN1.W",
+  "status": "Active",
+  "dob": {
+    "$date": "1999-11-03T23:00:00.000Z"
+  },
+  "phoneNumber": "08037575681",
+  "emergencyContact": "08037871628",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "805155851",
+  "bankName": "Access bank ",
+  "LGA": "MMP",
+  "state": "Borno",
+  "bvn": "22282034852",
+  "nin": "30387387476",
+  "highestQualification": "BSc",
+  "employmentDate": {
+    "$date": "2024-10-06T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "ICT"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e0"
+  },
+  "firstName": "Nasira",
+  "lastName": "Suleiman ",
+  "middleName": "Gambo",
+  "email": "nasirahsuleiman44@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$j.ump2d6taI702Oqxi.yMuFnpf.ez8y4kn6OC9kw7cR8OVOTLSvou",
+  "status": "Active",
+  "dob": {
+    "$date": "1996-12-09T23:00:00.000Z"
+  },
+  "phoneNumber": "8168723192",
+  "emergencyContact": "9052633292",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "80480340",
+  "bankName": "Access Bank ",
+  "LGA": "Keffi",
+  "state": "Nasarawa",
+  "bvn": "22396508526",
+  "nin": "38038654983",
+  "highestQualification": "BSC PSYCHOLOGY ",
+  "employmentDate": {
+    "$date": "2023-05-14T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "Accounts"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e5"
+  },
+  "firstName": "Habiba",
+  "lastName": "Salihu",
+  "email": "habeebahsaleh3@gmail.com",
+  "gender": "Female",
+  "password": "",
+  "status": "Active",
+  "dob": {
+    "$date": "1997-06-18T00:00:00.000Z"
+  },
+  "phoneNumber": "07033466555",
+  "emergencyContact": "08065308247",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "229062392",
+  "bankName": "Gt bank ",
+  "LGA": "Kaduna north ",
+  "state": "Kaduna",
+  "bvn": "22409974375",
+  "nin": "25137929985",
+  "highestQualification": "Bachelors",
+  "employmentDate": {
+    "$date": "2021-11-16T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T11:03:21.735Z"
+  },
+  "department": "Operations"
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e8"
+  },
+  "firstName": "Yahaya ",
+  "lastName": "Mu'azu",
+  "middleName": "Alhaji",
+  "email": "yahayamuazu50@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$kFfbrCctDvh2kKiguTrc0.bfySMcl6x8iLuVsirh6ob51XKJ7qMF.",
+  "status": "Active",
+  "dob": {
+    "$date": "1992-06-04T23:00:00.000Z"
+  },
+  "phoneNumber": "08065654674",
+  "emergencyContact": "08065654674",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "41453216",
+  "bankName": "Access bank",
+  "LGA": "Kaduna North",
+  "state": "Kaduna",
+  "bvn": "22353096262",
+  "nin": "97985977561",
+  "highestQualification": "HND",
+  "employmentDate": {
+    "$date": "2023-02-01T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "67c5881fa23ef99f1e0adcdc"
+  },
+  "firstName": "NURADDEEN",
+  "lastName": "IBRAHIM ",
+  "middleName": "MASKAWA",
+  "email": "nmaskawa@gmail.com",
+  "gender": "",
+  "password": "$2b$10$uOQRUCUY2UBqxeu.3qyu9.Y69dDNKGNbvM1nFwlsa/FTKzDdGVMJK",
+  "status": "Active",
+  "dob": null,
+  "phoneNumber": "07061348630",
+  "emergencyContact": "08037041600",
+  "department": "Operations",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "3129752771",
+  "bankName": "Firstbank ",
+  "psn": "11460416176",
+  "openFileNum": "955",
+  "secFileNum": "CP/S/770",
+  "cadre": "PHARMACIST",
+  "rank": "SENIOR PHARMACIST",
+  "gradeLevel": "GL10",
+  "step": "4",
+  "LGA": "LERE",
+  "state": "",
+  "bvn": "22337956672",
+  "nin": "60487348070",
+  "highestQualification": "B. Pharm",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T10:44:47.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T10:44:47.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e9"
+  },
+  "firstName": "Muhammad ",
+  "lastName": "Shinkafi",
+  "middleName": "Aminu",
+  "email": "mashinkafi02@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$BGDCX38jtaijkdeVDnmJqOepdO69g2Bo8HahevPP5v8MHOrnqeFH6",
+  "status": "Active",
+  "dob": {
+    "$date": "1999-12-27T23:00:00.000Z"
+  },
+  "phoneNumber": "08131186018",
+  "emergencyContact": "08089552493",
+  "ApptType": "Nysc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "4272817221",
+  "bankName": "Zenith Bank ",
+  "LGA": "Shinkafi",
+  "state": "Zamfara",
+  "bvn": "22453078113",
+  "nin": "77316594514",
+  "highestQualification": "BSC",
+  "employmentDate": {
+    "$date": "2024-12-31T23:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "department": "Operations"
+},
+{
+  "_id": {
+    "$oid": "67c58967a23ef99f1e0adcdf"
+  },
+  "firstName": "HASSAN",
+  "lastName": "SALISU",
+  "middleName": "",
+  "email": "babahassan308@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$aN8gVUVy9sSh/.0cBVzWEuTKp0D8n12eMK.n7NxByHIipKg89lcMS",
+  "status": "Active",
+  "dob": null,
+  "phoneNumber": "08037876248",
+  "emergencyContact": "08068561757",
+  "department": "Planning",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2027619445",
+  "bankName": "FIRST Bank",
+  "psn": "11460409626",
+  "openFileNum": "949",
+  "secFileNum": "724",
+  "cadre": "PLANNING",
+  "rank": "PRINCIPAL PLANNING  OFFICER",
+  "gradeLevel": "GL12",
+  "step": "4",
+  "LGA": "B/GWARI",
+  "state": "Kaduna",
+  "bvn": "22203542732",
+  "nin": "87939720166",
+  "highestQualification": "MSc Economics",
+  "employmentDate": null,
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-03-03T10:50:15.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T10:50:15.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789122917f3f9865264869a"
+  },
+  "firstName": "RASHIDA",
+  "lastName": "BUBA",
+  "email": "rasheedab16@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$gPTZJ5xjpJRCe82InpWHF.TOBTQVg345ZdK7N/7dbldF5dkTQ1piW",
+  "status": "Pending",
+  "dob": {
+    "$date": "1989-10-04T00:00:00.000Z"
+  },
+  "phoneNumber": "08037893685",
+  "emergencyContact": "08060167084",
+  "department": "ICT",
+  "ApptType": "Permanent",
+  "designation": "Department_Head",
+  "role": "Administrator",
+  "bankAccountNumber": "3029943080",
+  "bankName": "FIRST BANK",
+  "psn": "KDSG0006513",
+  "openFileNum": "0000",
+  "secFileNum": "0000",
+  "cadre": "Principal Program Analyst",
+  "rank": "HOD ICT",
+  "gradeLevel": "12",
+  "step": "3",
+  "LGA": "HONG",
+  "state": "Adamawa",
+  "bvn": "00000000000",
+  "nin": "74539889572",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2021-06-28T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": {
+    "$date": "2020-01-14T00:00:00.000Z"
+  },
+  "dateofConfirmation": {
+    "$date": "2021-06-28T00:00:00.000Z"
+  },
+  "dateofpresentappointment": {
+    "$date": "2020-01-14T00:00:00.000Z"
+  },
+  "dateOfRetirement": {
+    "$date": "2050-01-14T00:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "createdAt": {
+    "$date": "2025-01-16T14:05:30.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-16T14:05:30.907Z"
+  },
+  "__v": 0,
+  "middleName": "AUDU"
+},
+{
+  "_id": {
+    "$oid": "679746d412413281d5fbb9f8"
+  },
+  "firstName": "Samuel",
+  "lastName": "Peter",
+  "middleName": "Caesar",
+  "email": "caesarpeter725@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$SZsh7LXd48f.YCusMQ.0NuyWzXQnfwujm0NnVxZIsJ/TcemLxMGpC",
+  "status": "Active",
+  "dob": {
+    "$date": "1999-06-12T00:00:00.000Z"
+  },
+  "phoneNumber": "07015434342",
+  "emergencyContact": "08086127419",
+  "department": "ICT",
+  "nNumber": "",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "2118414959",
+  "bankName": "UBA",
+  "psn": "",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "Kagarko",
+  "state": "Kaduna",
+  "bvn": "22502441718",
+  "nin": "22032519055",
+  "highestQualification": "Diploma",
+  "employmentDate": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": null,
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [
+    {
+      "$oid": "6797585fb1987a632b005c58"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-27T08:41:56.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T09:08:09.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789048c9b8ae584a69f19f4"
+  },
+  "firstName": "muhammad",
+  "lastName": "tanko",
+  "email": "teekay014@gmail.com",
+  "gender": "Male",
+  "password": "$2b$10$qv2gF5F1U/.CZHcXGgHhzOMTEAJOHqotOk9fzM1QmZuhNy9Uuyga2",
+  "status": "Pending",
+  "dob": {
+    "$date": "1997-04-06T00:00:00.000Z"
+  },
+  "phoneNumber": "08020763992",
+  "emergencyContact": "08033045642",
+  "department": "ICT",
+  "ApptType": "Adhoc",
+  "designation": "Staff",
+  "role": "Administrator",
+  "bankAccountNumber": "0159254568",
+  "bankName": "gtbank",
+  "psn": "11111111",
+  "openFileNum": "",
+  "secFileNum": "",
+  "cadre": "",
+  "rank": "",
+  "gradeLevel": "",
+  "step": "",
+  "LGA": "kaduna north",
+  "state": "Kaduna",
+  "bvn": "11111111",
+  "nin": "0000004444",
+  "highestQualification": "Masters",
+  "employmentDate": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "dateofFirstAppointment": null,
+  "dateofConfirmation": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "dateofpresentappointment": null,
+  "dateOfRetirement": null,
+  "leaveRequests": [
+    {
+      "$oid": "679706c1bd638bad7bacbc1a"
+    },
+    {
+      "$oid": "67a9bdc3911a877084404937"
+    },
+    {
+      "$oid": "67a9be2a911a877084404941"
+    },
+    {
+      "$oid": "67c8bd0311ea81a79efbaec8"
+    },
+    {
+      "$oid": "681a0b936c8885edf9896c7a"
+    },
+    {
+      "$oid": "683428a4df6739b98ee38062"
+    },
+    {
+      "$oid": "68342decd362ffcbd94c4566"
+    },
+    {
+      "$oid": "68496328674c466029c74c60"
+    },
+    {
+      "$oid": "68497bf3674c466029c74d1f"
+    },
+    {
+      "$oid": "69e62395efdceebff554db72"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-16T13:07:24.309Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-20T13:01:09.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9a18c80e552f712c6a9e4"
+  },
+  "firstName": "NENADI",
+  "lastName": "SHEYIN-HEDIMA",
+  "email": "nhedima@gmail.com",
+  "gender": "Female",
+  "password": "$2b$10$k7X857ps4EV/lHUqyndzZuZo9/O/iHwYvDkTRWAYSFNRzQNRoGUvO",
+  "status": "Active",
+  "dob": {
+    "$date": "1977-08-15T00:00:00.000Z"
+  },
+  "phoneNumber": "08039708876",
+  "emergencyContact": "08024373445",
+  "ApptType": "Permanent",
+  "designation": "Staff",
+  "role": "User",
+  "bankAccountNumber": "0013731614",
+  "bankName": "Unity Bank PLC",
+  "psn": "11461063",
+  "openFileNum": "611/77",
+  "secFileNum": "1343",
+  "cadre": "Medical officer",
+  "rank": "Principal Medical Officer 1",
+  "gradeLevel": "16",
+  "step": "9",
+  "LGA": "Kaduna North",
+  "state": "Kaduna",
+  "bvn": "22287789908",
+  "nin": "88194578668",
+  "highestQualification": "Masters",
+  "employmentDate": null,
+  "dateofFirstAppointment": {
+    "$date": "2001-01-09T00:00:00.000Z"
+  },
+  "dateofConfirmation": {
+    "$date": "2008-06-30T00:00:00.000Z"
+  },
+  "dateofpresentappointment": {
+    "$date": "2019-01-01T00:00:00.000Z"
+  },
+  "dateOfRetirement": {
+    "$date": "2036-01-09T00:00:00.000Z"
+  },
+  "leaveRequests": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-22T10:06:04.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T09:46:38.478Z"
+  },
+  "department": "Operations"
+}]
