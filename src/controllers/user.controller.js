@@ -80,6 +80,20 @@ class UserController {
         }
     }
 
+    async resetPassword({ email, newPassword }) {
+        try {
+            if (!email || !newPassword) return { ok: false, message: "Email and new password are required" };
+            if (newPassword.length < 6) return { ok: false, message: "Password must be at least 6 characters" };
+            const user = await userModel.findOne({ email: email.trim().toLowerCase() });
+            if (!user) return { ok: false, message: "No account found with that email" };
+            user.password = newPassword;
+            await user.save();
+            return { ok: true, payLoad: { message: "Password reset successfully" } };
+        } catch (err) {
+            return { ok: false, message: err.message };
+        }
+    }
+
     async registerUserLeave(id, leaveId) {
         try {
             const user = await userModel.findByIdAndUpdate(id, { $push: { leaveRequests: leaveId } }, { new: true });

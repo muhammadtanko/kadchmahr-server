@@ -34,6 +34,11 @@ router.put("/:id", /* authMiddleware, */ async (req, res) => {
     return res.status(result.ok ? 200 : 400).json(result);
 });
 
+router.post("/reset-password", async (req, res) => {
+    const result = await userController.resetPassword(req.body);
+    return res.status(result.ok ? 200 : 400).json(result);
+});
+
 router.post("/bulk-upload", authMiddleware, uploadFile("file"), async (req, res) => {
     try {
         const jsonData = JSON.parse(req.body.data || "[]");
